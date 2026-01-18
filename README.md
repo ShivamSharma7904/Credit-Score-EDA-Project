@@ -1,1 +1,3 @@
 # Credit-Score-EDA-Project
+This project focuses on exploratory data analysis (EDA) for a loan-providing company that serves urban customers. The company evaluates loan applications by assessing a client’s ability to repay the loan.
+The objective of this case study is to identify patterns and risk factors that indicate potential difficulty in repaying loan installments. These insights can support data-driven decisions such as loan approval or rejection, loan amount adjustment, and risk-based interest rate assignment. The analysis ensures that creditworthy applicants are not wrongly rejected while managing financial risk effectively.
